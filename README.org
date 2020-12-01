@@ -1,1 +1,1 @@
-* 这是我的emacs配置(由[[https://emacs-china.org]emacs中文网]]的配置修改而来)
+* 这是我的emacs配置(由[[https://emacs-china.org][emacs中文网]]的配置修改而来)
